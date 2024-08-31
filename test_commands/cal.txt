@@ -1,0 +1,1 @@
+py run_calibrate_camera.py -i 0 -grid 9x6 -o fisheye.yaml -framestep 20 --resolution 640x480 --fisheye --no_gst
